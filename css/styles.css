@@ -1,0 +1,98 @@
+body,
+html {
+  margin: 0;
+}
+
+header {
+  display: block;
+  float: left;
+}
+
+ul {
+  margin: 0;
+}
+
+nav {
+  display: inline-block;
+}
+
+li {
+  display: inline-block;
+  margin-top: 48px;
+  margin-left: 38px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height, or 150% */
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #1b0a42;
+}
+
+.logo {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 48px;
+  /* or 160% */
+  letter-spacing: -0.02em;
+  color: #0a1b32;
+  margin-left: 80px;
+  margin-top: 37px;
+}
+
+.logo-dot {
+  color: #a3dc00;
+}
+
+.nav-home {
+  margin-left: 98px;
+}
+
+.sign-up-button {
+  display: inline-block;
+  border: none;
+
+  /*     position: absolute; */
+  margin-right: 68px;
+  margin-top: 30px;
+  margin-left: 40px;
+  width: 120px;
+  height: 60px;
+  background-color: #fc569a;
+  border-radius: 6px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height, or 150% */
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
+
+.sign-in-buttons {
+  float: right;
+  margin-right: 0;
+  margin: 0;
+}
+
+.sign-in-link {
+  display: inline-block;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height, or 150% */
+
+  text-align: center;
+  letter-spacing: 0.02em;
+
+  color: #1b0a42;
+}
