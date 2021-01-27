@@ -16,6 +16,7 @@ nav {
   display: inline-block;
 }
 
+
 li {
   display: inline-block;
   margin-top: 48px;
@@ -46,6 +47,61 @@ li {
 
 .logo-dot {
   color: #a3dc00;
+}
+
+.main-title {
+    margin-top: 203px;
+    margin-left: 200px;
+    margin-bottom: 0;
+    max-width: 500px;
+    max-height: 152px;
+
+    font-family: Ramaraja;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 76px;
+    /* or 106% */
+
+    letter-spacing: 0.02em;
+
+    color: #1B0A42;
+}
+
+.main-info {
+    width: 581.49px;
+    height: 96px;
+    margin-top: 10px;
+    margin-left: 200px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 32px;
+    /* or 160% */
+
+    letter-spacing: 0.02em;
+
+    color: #9A9A9A;
+}
+
+.main-button {
+    margin-left: 200px;
+    margin-top: 50px;
+    width: 152px;
+    height: 64px;
+    background-color: #fc569a;
+    border-radius: 6px;
+  
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
 }
 
 .nav-home {
